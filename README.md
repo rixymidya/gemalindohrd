@@ -1,0 +1,2 @@
+# gemalindohr
+ aplikasi hr gemalindo
